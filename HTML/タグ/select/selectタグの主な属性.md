@@ -1,6 +1,6 @@
-selectタグの主な属性
+# selectタグの主な属性
 
-<select>タグの主な属性
+## <select>タグの主な属性
 
     name
     ・フォーム送信時のキー名として使われる
@@ -38,3 +38,4 @@ selectタグの主な属性
         <option>バナナ</option>
         <option>ブドウ</option>
     </select>
+    ```
